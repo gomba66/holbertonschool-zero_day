@@ -23,5 +23,5 @@ This directory contain some commands for to use emacs, manipulate files, create 
 
 This directory contain some basic commands fot to use vi, modify files, create files, etc
 
-# Git Directory
+# Git Directory:
 This directory contain some basic commands about git, for to learn basically how to use it,  how to push files to GitHub, pull, create new branches, do merges, and more!
