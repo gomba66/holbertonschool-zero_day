@@ -1,1 +1,2 @@
-#This is a proyect of **EMACS commands**
+# Emacs Commands
+#### This project contains the basic commands of the text editor "Emacs"
