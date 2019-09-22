@@ -1,1 +1,2 @@
-#This is a README of my first directory on the repo ;)
+# This is my First Project for Holberton School
+### This Directory is About Vagrant
